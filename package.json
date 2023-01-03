@@ -1,23 +1,24 @@
 {
-  "name": "teamprofilegenerator",
+  "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "profile Generator",
+  "description": "## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phungxkhiem/TeamProfileGenerator.git"
+    "url": "git+https://github.com/ianad389/Employee-Tracker.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phungxkhiem/TeamProfileGenerator/issues"
+    "url": "https://github.com/ianad389/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/phungxkhiem/TeamProfileGenerator#readme",
+  "homepage": "https://github.com/ianad389/Employee-Tracker#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3",
+    "seed": "^0.4.4"
   }
 }
