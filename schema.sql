@@ -1,4 +1,4 @@
-ROP DATABASE IF EXISTS employees;
+DATABASE IF EXISTS employees;
 CREATE DATABASE employees;
 
 USE employees;
